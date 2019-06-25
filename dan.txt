@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 Testing, who merged first?
-=======
+
 Dog
->>>>>>> d78c1b397e281215c88bcdce9aa9d0800274c227
+
